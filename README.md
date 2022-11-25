@@ -3,8 +3,8 @@
 <h4 align="center"><b>📫Mail</b>:<a style="color:0462B5" href="mailto:gokturk_turan@outlook.com">gokturk_turan@outlook.com</a><br><br></h4>
 
 <div align="center" style="display: flex; flex-direction: row;">
- <p align="center"><img class="img" align="center" src="https://github-readme-stats.vercel.app/api?username=hybtli&show_icons=true&theme=radical" /></p>
- <p align="center"><img class="img" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hybtli&theme=radical&layout=compact&langs_count=6"/></p>
+ <p align="center"><img class="img" align="center" src="https://github-readme-stats.vercel.app/api?username=gokturkturann&show_icons=true&theme=radical" /></p>
+ <p align="center"><img class="img" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokturkturann&theme=radical&layout=compact&langs_count=6"/></p>
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
